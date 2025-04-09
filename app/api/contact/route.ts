@@ -22,7 +22,7 @@ const transporter = nodemailer.createTransport({
 	},
 });
 
-export const verifyTransporter = async (retries = 3, delay = 5000) => {
+const verifyTransporter = async (retries = 3, delay = 5000) => {
 	console.log(process.env.SMTP_PASSWORD, process.env.SMTP_USER);
 	for (let attempt = 1; attempt <= retries; attempt++) {
 		try {
