@@ -336,7 +336,7 @@ export default function BookPage() {
 			<Nav />
 
 			<div className="min-h-screen bg-[#f6f7f2]">
-				<div className="max-w-6xl mx-auto px-2 py-8 md:py-12 sm:mt-24">
+				<div className="max-w-6xl mx-auto px-2 py-8 mt-24">
 					<div className="bg-white shadow-2xl rounded-lg overflow-hidden">
 						{/* Book Header */}
 						<div className="relative h-auto md:h-64 bg-[#363f27] flex flex-col md:flex-row items-center p-6">
