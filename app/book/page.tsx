@@ -218,7 +218,8 @@ const bookData: BookData = {
 							<p>
 								Where others see chaos, the sophisticated investor perceives patterns. When headlines trigger
 								fear, opportunity quietly emerges for those trained to recognize it. This perceptual
-								advantage—seeing value where others don&apos;t—creates the most substantial returns in any market.
+								advantage—seeing value where others don&apos;t—creates the most substantial returns in any
+								market.
 							</p>
 							<p>
 								Consider how institutional constraints force even brilliant fund managers to overlook certain
@@ -290,8 +291,8 @@ const bookData: BookData = {
 						</p>
 						<p>
 							Those who master these principles find themselves untroubled by market volatility that
-							devastates unprepared investors. They recognize that the greatest risk isn&apos;t temporary price
-							fluctuation but permanent capital impairment—and structure their affairs accordingly.
+							devastates unprepared investors. They recognize that the greatest risk isn&apos;t temporary
+							price fluctuation but permanent capital impairment—and structure their affairs accordingly.
 						</p>
 						<div className="mt-12 p-6 bg-amber-50 border-l-4 border-amber-500 text-amber-800 rounded-lg shadow-sm">
 							<p className="font-medium text-lg">
@@ -336,7 +337,7 @@ export default function BookPage() {
 			<Nav />
 
 			<div className="min-h-screen bg-[#f6f7f2]">
-				<div className="max-w-6xl mx-auto px-2 py-8 mt-24">
+				<div className="max-w-6xl mx-auto px-2 py-8 mt-20">
 					<div className="bg-white shadow-2xl rounded-lg overflow-hidden">
 						{/* Book Header */}
 						<div className="relative h-auto md:h-64 bg-[#363f27] flex flex-col md:flex-row items-center p-6">

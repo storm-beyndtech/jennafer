@@ -20,7 +20,7 @@ export default function Nav() {
 	const handleScroll = () => {
 		const currentScrollY = window.scrollY;
 
-		if (currentScrollY > 100) {
+		if (currentScrollY > 50) {
 			setShowBg(true);
 		} else {
 			setShowBg(false);
