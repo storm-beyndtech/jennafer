@@ -140,9 +140,7 @@ html {
 		position: fixed;
 		top: 0;
 		right: -200px;
-		background-color: #f6f7f2c7;
-		backdrop-filter: blur(20px);
-		-webkit-backdrop-filter: blur(20px);
+		background-color: #f6f7f2;
 		align-items: flex-start;
 		justify-content: center;
 		padding-left: 50px;
