@@ -46,7 +46,7 @@ const bookData: BookData = {
 					</div>
 					<div>
 						<h3 className="text-xl font-semibold text-gray-800 mb-3">
-							Chapter 2: Navigating Tomorrow's Markets
+							Chapter 2: Navigating Tomorrow&apos;s Markets
 						</h3>
 						<ul className="list-disc pl-6 text-gray-700 space-y-2">
 							<li>Emerging Disruption Patterns</li>
@@ -152,7 +152,7 @@ const bookData: BookData = {
 					</div>
 					<div>
 						<h3 className="text-xl font-semibold text-gray-800 mb-3">
-							Chapter 8: The Elite Investor's Toolbox
+							Chapter 8: The Elite Investor&apos;s Toolbox
 						</h3>
 						<ul className="list-disc pl-6 text-gray-700 space-y-2">
 							<li>Proprietary Analysis Frameworks</li>
@@ -173,10 +173,10 @@ const bookData: BookData = {
 			content: (
 				<div className="space-y-4 text-gray-700">
 					<p>
-						The journey you've begun by reading these pages is merely the first step toward a transformation
-						that extends far beyond numbers in an account. True financial mastery isn't simply about
-						accumulating wealth—it's about creating a life where money serves your deepest aspirations rather
-						than constraining them.
+						The journey you&apos;ve begun by reading these pages is merely the first step toward a
+						transformation that extends far beyond numbers in an account. True financial mastery isn&apos;t
+						simply about accumulating wealth—it&apos;s about creating a life where money serves your deepest
+						aspirations rather than constraining them.
 					</p>
 					<p>
 						The most profound revelation awaiting you is that investing excellence is less about complex
@@ -185,8 +185,8 @@ const bookData: BookData = {
 						information—they cultivate a unique perceptual advantage allowing them to see what others miss.
 					</p>
 					<p>
-						As you implement the frameworks revealed in these chapters, you'll likely notice changes beyond
-						your portfolio. Decision-making in all areas becomes sharper. Time feels more abundant.
+						As you implement the frameworks revealed in these chapters, you&apos;ll likely notice changes
+						beyond your portfolio. Decision-making in all areas becomes sharper. Time feels more abundant.
 						Possibilities previously invisible begin revealing themselves with startling clarity.
 					</p>
 					<p>
@@ -200,9 +200,9 @@ const bookData: BookData = {
 						to a life of genuine freedom and impact.
 					</p>
 					<p>
-						The question isn't whether these methods work—history has proven their effectiveness across
-						centuries and economic conditions. The only question is whether you'll be among the few who apply
-						them consistently enough to experience their transformative power.
+						The question isn&apos;t whether these methods work—history has proven their effectiveness across
+						centuries and economic conditions. The only question is whether you&apos;ll be among the few who
+						apply them consistently enough to experience their transformative power.
 					</p>
 				</div>
 			),
@@ -218,7 +218,7 @@ const bookData: BookData = {
 							<p>
 								Where others see chaos, the sophisticated investor perceives patterns. When headlines trigger
 								fear, opportunity quietly emerges for those trained to recognize it. This perceptual
-								advantage—seeing value where others don't—creates the most substantial returns in any market.
+								advantage—seeing value where others don&apos;t—creates the most substantial returns in any market.
 							</p>
 							<p>
 								Consider how institutional constraints force even brilliant fund managers to overlook certain
@@ -244,7 +244,7 @@ const bookData: BookData = {
 								forces. They recognize how capital flows through markets in predictable, exploitable patterns.
 							</p>
 							<p>
-								Today's most promising deployment targets exist where traditional industries undergo
+								Today&apos;s most promising deployment targets exist where traditional industries undergo
 								technological transformation. Banking infrastructure, healthcare delivery systems, energy
 								distribution networks—all face unprecedented disruption creating asymmetric investment
 								opportunities.
@@ -273,8 +273,8 @@ const bookData: BookData = {
 				<div className="space-y-6">
 					<div className="space-y-4 text-gray-700">
 						<p>
-							For centuries, the world's wealthiest families and sovereign funds have employed investment
-							principles hidden from public view. These aren't complex formulas but counterintuitive
+							For centuries, the world&apos;s wealthiest families and sovereign funds have employed investment
+							principles hidden from public view. These aren&apos;t complex formulas but counterintuitive
 							approaches to capital preservation and growth across generations.
 						</p>
 						<p>
@@ -290,7 +290,7 @@ const bookData: BookData = {
 						</p>
 						<p>
 							Those who master these principles find themselves untroubled by market volatility that
-							devastates unprepared investors. They recognize that the greatest risk isn't temporary price
+							devastates unprepared investors. They recognize that the greatest risk isn&apos;t temporary price
 							fluctuation but permanent capital impairment—and structure their affairs accordingly.
 						</p>
 						<div className="mt-12 p-6 bg-amber-50 border-l-4 border-amber-500 text-amber-800 rounded-lg shadow-sm">

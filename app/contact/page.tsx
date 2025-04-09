@@ -4,12 +4,10 @@ import ContactForm from "../components/Contactform"
 
 export default function about() {
   return (
-    <>
-      <main className="">
+      <main>
         <Nav />
         <ContactForm />
         <Footer />
       </main>
-    </>
   )
 }
