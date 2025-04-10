@@ -4,6 +4,7 @@ import Image from "next/image";
 import Head from "next/head";
 import bookCover from "../assets/the-philosophy-of-smart-investing.jpg";
 import Nav from "../components/Nav";
+import Link from "next/link";
 
 // Define our book type
 type BookData = {
@@ -297,9 +298,9 @@ const bookData: BookData = {
 						<div className="mt-12 p-6 bg-amber-50 border-l-4 border-amber-500 text-amber-800 rounded-lg shadow-sm">
 							<p className="font-medium text-lg">
 								For the full copy or financial consultation,{" "}
-								<a href="mailto:jennafer@example.com" className="underline hover:text-amber-600">
+								<Link href="/contact" className="underline hover:text-amber-600">
 									contact Jennafer Turner
-								</a>
+								</Link>
 								.
 							</p>
 						</div>
